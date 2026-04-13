@@ -1,0 +1,9 @@
+.*
+!.gitignore
+
+data/
+runs/
+catboost_info/
+__pycache__/
+*.py[cod]
+*.cbm
